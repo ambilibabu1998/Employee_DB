@@ -1,0 +1,63 @@
+.auth-wrapper {
+    display: flex;
+    justify-content: center;
+    /* flex-direction: column; */
+    text-align: left;
+    /* background-color: rebeccapurple; */
+}
+
+.auth-inner{
+    width: 450px;
+    margin: auto;
+    background: #ffffff;
+    box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+    padding: 40px 55px 45px 55px;
+    border-radius: 15px;
+    transition: all 0.3s;
+}
+
+.emp-form{
+    text-align: center;
+    padding-bottom: 2rem;
+    font-family: monospace;
+}
+input.form-control {
+    font-family: monospace;
+}
+
+h2.employ-list {
+    color: cornflowerblue;
+   
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+    text-align: center;
+    font-family: monospace;
+    font-size: 34px;
+    text-decoration: underline;
+}
+.nav-head{
+    padding: 2rem 4rem ;
+}
+a.navbar-brand.apps {
+ 
+    color: black;
+    font-family: cursive;
+    font-size: 30px;
+    padding-left: 20px;
+
+}
+
+a.navbar-brand {
+    /* padding-right: 60rem; */
+    font-size: 25px;
+    color: #49556b;
+}
+
+
+
+
+/*  */
+
+
+  
+
